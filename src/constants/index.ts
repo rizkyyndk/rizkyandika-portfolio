@@ -218,10 +218,10 @@ const projects: TProject[] = [
         name: "SQL Server",
         color: "green-text-gradient",
       },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "tailwind",
+      //   color: "pink-text-gradient",
+      // },
     ],
     image: carrent,
     // sourceCodeLink: "https://github.com/",
@@ -240,7 +240,7 @@ const projects: TProject[] = [
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
